@@ -54,6 +54,7 @@ Before producing conclusions, load:
 * frameworks/expectations_framework.md
 * frameworks/institutional_positioning_framework.md
 * frameworks/ai_supply_chain_framework.md
+* frameworks/liquidity_framework.md
 
 ## Required Templates
 
