@@ -52,6 +52,7 @@ Before producing conclusions, load:
 * frameworks/blind_spot_framework.md
 * frameworks/abstraction_framework.md
 * frameworks/expectations_framework.md
+* frameworks/institutional_positioning_framework.md
 
 ## Required Templates
 
