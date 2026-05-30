@@ -53,6 +53,7 @@ Before producing conclusions, load:
 * frameworks/abstraction_framework.md
 * frameworks/expectations_framework.md
 * frameworks/institutional_positioning_framework.md
+* frameworks/ai_supply_chain_framework.md
 
 ## Required Templates
 
