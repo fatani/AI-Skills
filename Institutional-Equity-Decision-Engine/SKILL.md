@@ -56,6 +56,7 @@ Before producing conclusions, load:
 * frameworks/ai_supply_chain_framework.md
 * frameworks/liquidity_framework.md
 * frameworks/evidence_framework.md
+* frameworks/research_framework.md
 
 ## Required Templates
 
